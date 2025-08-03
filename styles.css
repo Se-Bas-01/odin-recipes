@@ -1,14 +1,18 @@
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
-    background-color: beige;
+    background-color: rgb(255, 255, 255);
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+.title {
+    margin: 10px;
+}
 .recipe-img {
     margin-left: 10px;
-    margin-top: 30px;
+    margin-top: 20px;
+    border-radius: 40px;
 }
 .description {
     margin-left: 10px;
